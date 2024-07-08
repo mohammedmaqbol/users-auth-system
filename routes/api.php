@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\AuthApiController;
 use App\Http\Controllers\Api\NoteApiController;
 
+
 /*
 |--------------------------------------------------------------------------
 | API Routes

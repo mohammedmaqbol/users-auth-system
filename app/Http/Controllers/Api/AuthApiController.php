@@ -10,6 +10,8 @@ use Illuminate\Support\Facades\Hash;
 class AuthApiController extends Controller
 
 {
+    //verify email and password
+    
     
     public function login(Request $request)
     {
